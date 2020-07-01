@@ -1,0 +1,17 @@
+com\project\demo\entities\Friend.class
+com\project\demo\repositories\FriendRepository.class
+com\project\demo\entities\ChatMessage.class
+com\project\demo\controller\MainController.class
+com\project\demo\entities\NewsPost.class
+com\project\demo\config\SecurityConfig.class
+com\project\demo\SpringBootWebSocketApplication.class
+com\project\demo\config\WebMVCConfig.class
+com\project\demo\repositories\CommentRepository.class
+com\project\demo\repositories\RoleRepository.class
+com\project\demo\config\WebSocketConfig.class
+com\project\demo\entities\Role.class
+com\project\demo\entities\Users.class
+com\project\demo\entities\Comment.class
+com\project\demo\services\UserService.class
+com\project\demo\repositories\UserRepository.class
+com\project\demo\repositories\NewsPostRepository.class
